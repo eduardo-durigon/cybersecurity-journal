@@ -6,7 +6,7 @@ Weekly reflections tracking my growth in IT and cybersecurity, including CompTIA
 This repository is my personal learning journal, tracking my growth in IT and cybersecurity. Here, I record weekly reflections on what I study, the challenges I encounter, and the skills I build.  
 
 I am currently focused on:
-- **CompTIA Tech+** (in progress)  
+- **CompTIA Tech+** (passed)  
 - **CompTIA A+** (planned)  
 - **CompTIA Network+** (planned)  
 - Hands-on practice via **TryHackMe** rooms  
